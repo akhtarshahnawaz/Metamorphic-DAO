@@ -1,4 +1,5 @@
 # Metamorphic DAO
+![My Image](https://github.com/akhtarshahnawaz/Metamorphic-DAO/blob/main/cover.jpeg)
 
 Current state of Decentralised Autonomous organisations is really grave. Most of DAO implementation are basically just a piece voting platform where people who are in DAO vote on governance proposals with very limited automation or flexibility. Most DAOs are implememnted on EVM where they are limited by capabilities of EVM. They can't do complicated decision making or any AI driven task. Also the execution logic of most of DAOs is really rigid and difficult to change once they are established. Some part of it can be changed using proxy contract, however even then their execution logic is limited by the platform they run on and most blockchain platform have very limited capability in case of processing and memory.
 
