@@ -1,7 +1,5 @@
 # Metamorphic DAO
 
-![drawing](https://github.com/akhtarshahnawaz/Metamorphic-DAO/blob/main/cover.jpeg)
-
 <p align="center">
   <img src="https://github.com/akhtarshahnawaz/Metamorphic-DAO/blob/main/cover.jpeg" />
 </p>
